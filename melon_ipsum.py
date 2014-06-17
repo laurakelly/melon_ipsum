@@ -68,7 +68,7 @@ def create_paragraph():
     return paragraph
 
 def create_sentence():
-    # pic number of words in the sentence
+    # pick number of words in the sentence
     num_words = choice([5,6,7,8])
 
     sentence = ""
